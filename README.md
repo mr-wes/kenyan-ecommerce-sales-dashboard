@@ -142,6 +142,4 @@ Potential future enhancements include:
 
 ## Author
 
-**Joshua Wesley**
-
-Data analytics portfolio project.
+[mr-wes](https://github.com/mr-wes)
